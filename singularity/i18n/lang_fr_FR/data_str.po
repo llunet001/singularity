@@ -2,7 +2,7 @@
 # Traductions françaises du paquet singularity.
 # Copyright (C) 2018 THE singularity'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the singularity package.
-# Philippe <xenega@gmx.com>, 2018.
+# Philippe <xenega@gmx.com>, 2025.
 #
 msgid ""
 msgstr ""
